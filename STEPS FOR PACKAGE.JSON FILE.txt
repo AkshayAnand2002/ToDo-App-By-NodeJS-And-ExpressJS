@@ -1,0 +1,7 @@
+to create package.json file use 'npm.init'.
+all packages and dependencies will be tracked here.
+use 'npm install express -save' , here -save is used to save express as dependency on the file.
+next install ejs as dependency by 'npm install ejs -save'
+also here we are going to make post requests so setup body-parser by 'npm install body-parser -save'.
+all required things downloaded.
+since in main of package.json we specified main as app.js so we need to create app.js file to further continue work.
